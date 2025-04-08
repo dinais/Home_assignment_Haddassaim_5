@@ -1,0 +1,37 @@
+.auth-page {
+    padding: 30px;
+    background-color: #fdfdfd;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    direction: rtl;
+    text-align: center;
+  }
+  
+  .auth-title {
+    font-size: 2rem;
+    margin-bottom: 24px;
+    color: #2c3e50;
+  }
+  
+  .auth-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .auth-links li {
+    margin: 12px 0;
+  }
+  
+  .auth-links a {
+    text-decoration: none;
+    color: #3498db;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .auth-links a:hover {
+    color: #1abc9c;
+    text-decoration: underline;
+  }
+  
